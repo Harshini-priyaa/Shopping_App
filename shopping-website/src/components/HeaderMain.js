@@ -9,7 +9,7 @@ const HeaderMain = () => {
             <div className="w-full sm:w-{300px} md:w-[70%] relative" >
               <input className="border-gray-200 border p-2 px-4 rounded-lg w-full" type="text"
               placeholder="Enter any product name...."/>
-
+              The product will be displayed soon
               
             </div>
         </div>
